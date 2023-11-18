@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TV100LIMITES" tvg-name="TV100LIMITES" tvg-logo="https://i.imgur.com/el8Ntlk.jpg",[COLOR yellow]||||||||TV 100 LIMITES|||||||[/COLOR]
 
 #EXTM3U
-#EXTINF:-1 group-title="Canais | TV Aberta" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]TV[/COLOR][COLORlime]100LIMITES[/COLOR]&maxbitrate=0&Buffer=20971520&url=https://i.imgur.com/IYNSKol.png",HD
+#EXTINF:-1 group-title="Canais | TV Aberta" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]TV[/COLOR][COLORlime]100LIMITES[/COLOR]&maxbitrate=0&Buffer=20971520&url=https://i.imgur.com/IYNSKol.png",RTP 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]TV[/COLOR][COLORlime]100LIMITES[/COLOR]&maxbitrate=0&Buffer=20971520&url=http://s1.g6ip.us:1997/live/nf8SRztokh/5qgCQk3RAq/6438.m3u8|User-Agent=VLC/3.0.0
-#EXTINF:-1 group-title="Canais | TV Aberta" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]TV[/COLOR][COLORlime]100LIMITES[/COLOR]&maxbitrate=0&Buffer=20971520&url=https://i.imgur.com/IYNSKol.png",HD [Alt]
+#EXTINF:-1 group-title="Canais | TV Aberta" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]TV[/COLOR][COLORlime]100LIMITES[/COLOR]&maxbitrate=0&Buffer=20971520&url=https://i.imgur.com/IYNSKol.png",RTP 1 HD [Alt]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]TV[/COLOR][COLORlime]100LIMITES[/COLOR]&maxbitrate=0&Buffer=20971520&url=http://s1.g6ip.us:1997/live/nf8SRztokh/5qgCQk3RAq/51527.m3u8|User-Agent=VLC/3.0.0
